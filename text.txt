@@ -1,0 +1,4 @@
+hello world
+hello java2
+add a new line in third 
+add a new line of gitk
