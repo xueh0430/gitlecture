@@ -2,3 +2,7 @@ hello world
 hello java2
 add a new line in third 
 add a new line of gitk
+add a new line of 1
+add a new line of 2
+add a new line of 3
+add a new line of 4
